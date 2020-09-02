@@ -1,2 +1,4 @@
-# boafur.github.io
-my pages thing yes
+### my pages thing yes
+
+TODO:
+* Make it look better
