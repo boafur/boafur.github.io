@@ -19,6 +19,7 @@ p {
     background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
     height: 100%;
     margin: 0;
+    /* Preparing for a scroll down white block parallax lol */
     background-attachment: fixed;
     background-repeat: none;
     background-position: 50% -100px;    
