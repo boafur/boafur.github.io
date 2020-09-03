@@ -1,10 +1,14 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Roboto', sans-serif;
     text-align: center;
     font-weight: 300;
     font-size: 1.02em;
+    box-sizing: border-box;
+}
+
+body, html {
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
 }
 
 h1 {
@@ -17,20 +21,4 @@ h2 button {
 
 p {
     margin-top: 1em;
-}
-
-.color1 {
-    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
-}
-
-.color2 {
-    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
-}
-
-.parallax {
-    /* Preparing for parallax effect OwO */
-    background-repeat: none;
-    background-position: 50% -100px;    
-    transition: 0s linear;
-    transition-property: background-position;
 }
