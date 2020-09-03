@@ -1,6 +1,10 @@
 * {
+    padding: 0;
+    margin: 0;
     font-family: 'Roboto', sans-serif;
     text-align: center;
+    font-weight: 300;
+    font-size: 1.02em;
 }
 
 h1 {
@@ -17,11 +21,8 @@ p {
 
 .parallax {
     background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
-    height: 100%;
-    margin: 0;
-    background-attachment: fixed;
+    /* Preparing for parallax effect OwO */
     background-repeat: none;
-    /* Preparing for a scroll down white block parallax lol */
     background-position: 50% -100px;    
     transition: 0s linear;
     transition-property: background-position;
