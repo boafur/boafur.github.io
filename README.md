@@ -1,8 +1,6 @@
 # my github pages thing yes
 
-TODO:
-
-* Make it look better
+There's not much here
 
 [![You probably can't run this on Club Penguin](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](http://ForTheBadge.com) 
 
